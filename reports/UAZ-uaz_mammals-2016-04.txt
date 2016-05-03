@@ -1,0 +1,374 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 482
+Number of records retrieved in searches: 11748
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 271
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 170
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 25
+	Date: 2016-04-16 ; Times: 10
+	Date: 2016-04-14 ; Times: 35
+	Date: 2016-04-26 ; Times: 17
+	Date: 2016-04-29 ; Times: 80
+	Date: 2016-04-28 ; Times: 9
+	Date: 2016-04-18 ; Times: 13
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-15 ; Times: 13
+	Date: 2016-04-21 ; Times: 12
+	Date: 2016-04-20 ; Times: 13
+	Date: 2016-04-23 ; Times: 9
+	Date: 2016-04-17 ; Times: 10
+	Date: 2016-04-25 ; Times: 14
+	Date: 2016-04-24 ; Times: 9
+	Date: 2016-04-27 ; Times: 200
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(23.479036,-109.617516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-109.107516))&lt;15000" ; Times: 2
+	Query: "(reddington)" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.637516))&lt;15000" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-107.747516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-112.507516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.357516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-111.487516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.657516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.867516))&lt;15000" ; Times: 1
+	Query: "genus:hoplomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-112.337516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.507516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.707516))&lt;15000" ; Times: 1
+	Query: "dipodomys merriami tucson cockrum" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-114.207516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-112.167516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.557516))&lt;15000" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "microtus pennsylvanicus rhode island" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-112.167516))&lt;15000" ; Times: 1
+	Query: "Lasiurus AND Island AND California" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.877516))&lt;15000" ; Times: 3
+	Query: "gbifdatasetid:96275bf2-8999-4869-95d5-4903a84391b0" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-114.547516))&lt;15000" ; Times: 1
+	Query: "peromyscus hylocetes" ; Times: 2
+	Query: "Herpestes" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-106.387516))&lt;15000" ; Times: 1
+	Query: "dipodomys merriami tucson gardner" ; Times: 1
+	Query: "distance(location,geopoint(22.119036,-105.197516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.877516))&lt;15000" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.617516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.047516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(30.109036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.337516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.447516))&lt;15000" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "vampire" ; Times: 8
+	Query: "distance(location,geopoint(31.639036,-111.487516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-111.487516))&lt;15000" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.867516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.197516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "Coatzacoalcos" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.279036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-112.847516))&lt;15000" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.367516))&lt;15000" ; Times: 2
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-114.547516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.827516))&lt;15000" ; Times: 1
+	Query: "genus:conepatus (weight)" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.747516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(29.769036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.357516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.527516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.367516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.487516))&lt;15000" ; Times: 1
+	Query: "SIMIIFORMES" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.069036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.127516))&lt;15000" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight)" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.167516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.167516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.337516))&lt;15000" ; Times: 2
+	Query: "Leptonycteris (Chiapas)" ; Times: 7
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.357516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.127516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-106.727516))&lt;15000" ; Times: 1
+	Query: "mustela nigripes" ; Times: 131
+	Query: "distance(location,geopoint(31.639036,-112.167516))&lt;15000" ; Times: 1
+	Query: "suncus murinus malaysia" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(30.449036,-114.717516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-105.197516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.487516))&lt;15000" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 5
+	Query: "distance(location,geopoint(31.639036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.187516))&lt;15000" ; Times: 1
+	Query: "least weasel" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.337516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-107.917516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "institutioncode:uaz collectioncode:mammals" ; Times: 6
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-113.187516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-109.617516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(30.959036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-112.337516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.697516))&lt;15000" ; Times: 1
+	Query: "specificepithet:alfari genus:sigmodontomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "griselda" ; Times: 1
+	Query: "sphiggurus" ; Times: 4
+	Query: "distance(location,geopoint(31.639036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.727516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(29.939036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(29.599036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.427516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-114.207516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.677516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-114.377516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.187516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.767516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-114.547516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.357516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.527516))&lt;15000" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-114.717516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.027516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.957516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(30.279036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-114.207516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 137 (out of 1312 download events in this period)
+Total number of records downloaded: 16298
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-14 ; Times: 15
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-15 ; Times: 18
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-22 ; Times: 8
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "panthera leo" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "order:Rodentia county:&#34;Tulsa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 64
+	Query: "Odocoileus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "dipodomys deserti" ; Times: 1
+
+
+End of report.
