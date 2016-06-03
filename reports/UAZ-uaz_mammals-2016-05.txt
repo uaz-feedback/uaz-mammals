@@ -1,0 +1,138 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 1047
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 61
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-14 ; Times: 3
+	Date: 2016-05-13 ; Times: 6
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 5
+	Date: 2016-05-31 ; Times: 17
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 3
+	Date: 2016-05-04 ; Times: 8
+	Date: 2016-05-05 ; Times: 9
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-24 ; Times: 5
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tamias institutioncode:UAZ" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "peromyscus maniculatus yuma arizona" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "distance(location,geopoint(29.173036,-112.217516))&lt;15000" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "petaurista" ; Times: 2
+	Query: "distance(location,geopoint(31.769036,-113.547516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "os penis" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "mammals stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; distance(location,geopoint(29.999345682154296,-114.54345703125))&lt;100000" ; Times: 1
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "rge" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 1
+	Query: "mustela nigripes" ; Times: 14
+	Query: "sphiggurus" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "(lontra canadensis) institutioncode:UAZ" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Gulo weight" ; Times: 1
+	Query: "panthera onca}" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "genus:hoplomys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:capensis genus:Delphinus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 327 download events in this period)
+Total number of records downloaded: 5445
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-31 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+
+
+End of report.
