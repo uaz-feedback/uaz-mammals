@@ -1,0 +1,72 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 157
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 8
+	Date: 2017-11-29 ; Times: 3
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 7
+	Date: 2017-11-24 ; Times: 3
+	Date: 2017-11-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "diclidurus" ; Times: 3
+	Query: "asian elephant" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "vntype:specimen class:Mammalia catalognumber:12642" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Equidae skeleton equus" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;mexico&#34;" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "Cynomys gunnisoni skeleton" ; Times: 1
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1101 download events in this period)
+Total number of records downloaded: 6682
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 6
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "peromyscus hylocetes" ; Times: 3
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "bison" ; Times: 1
+
+
+End of report.
