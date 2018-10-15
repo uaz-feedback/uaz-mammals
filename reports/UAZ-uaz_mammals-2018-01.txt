@@ -1,0 +1,359 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 302
+Number of records retrieved in searches: 2597
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 68
+	Country: Denmark ; Times: 47
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 115
+	Country: Peru ; Times: 42
+	Country: Unknown ; Times: 14
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 6
+	Date: 2018-01-31 ; Times: 19
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-11 ; Times: 16
+	Date: 2018-01-10 ; Times: 4
+	Date: 2018-01-13 ; Times: 6
+	Date: 2018-01-12 ; Times: 29
+	Date: 2018-01-15 ; Times: 18
+	Date: 2018-01-14 ; Times: 14
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-16 ; Times: 66
+	Date: 2018-01-24 ; Times: 7
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-27 ; Times: 18
+	Date: 2018-01-28 ; Times: 5
+	Date: 2018-01-29 ; Times: 5
+	Date: 2018-01-02 ; Times: 7
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-26 ; Times: 15
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-21 ; Times: 3
+	Date: 2018-01-22 ; Times: 13
+	Date: 2018-01-23 ; Times: 18
+	Date: 2018-01-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasypus novemcinctus skeleton" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "genus:Baiomys order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "distance(location,geopoint(41.1630148060001,-73.1322248075))&lt;3077" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 13
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "genus:Odocoileus virginianus hasmass:1" ; Times: 2
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Kinkajou mappable:1" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "alfari cricetidae" ; Times: 1
+	Query: "distance(location,geopoint(33.7556667820715,-106.865426345))&lt;4228" ; Times: 3
+	Query: "genus:mephitis stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "melanomys" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "genus:Odocoileus virginianus year &gt;= 1700 year &lt;= 1990 hasmass:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "26413" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "Sigmodon hirsutus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "small mammals new mexico" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "order:rodentia class:mammalia 25014" ; Times: 1
+	Query: "collared peccary" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "vampire" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "genus:Macaca order:Primates institutioncode:UAZ" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "distance(location,geopoint(31.3451472825001,-109.25778638))&lt;2897" ; Times: 3
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Casto" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Equus asinus" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 2
+	Query: "genus:Lynx county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Kodiak Bear" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "genus:Baiomys order:Rodentia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "04161" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 6
+	Query: "rusa unicolor continent:asia" ; Times: 1
+	Query: "&#34;nine banded armadillo&#34;" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Leptonycteris nivalis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "distance(location,geopoint(33.7556667820715,-106.926360918653))&lt;3477" ; Times: 3
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1 haslength:1 mappable:1" ; Times: 1
+	Query: "genus:mus stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "armadillo class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "21220" ; Times: 1
+	Query: "Atlantoxerus getulus" ; Times: 4
+	Query: "Equus caballus" ; Times: 3
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "sigmodontomys" ; Times: 2
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "genus:vulpes velox stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 2
+	Query: "24291" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "elephant shrew mappable:1" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "class:mammalia institutioncode:UAZ" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "distance(location,geopoint(33.802489436786,-106.937418594333))&lt;4226" ; Times: 3
+	Query: "nine-banded armadillo mappable:1" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "armadillo continent:North America mappable:1" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "UAZ 09328" ; Times: 2
+	Query: "specificepithet:longicaudus genus:microtus county:&#34;graham&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 4
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis hastissue:1" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 4
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "distance(location,geopoint(34.2929382449285,-114.079320738849))&lt;3257" ; Times: 3
+	Query: "cheetah" ; Times: 3
+	Query: "Myotis albescens" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 42
+	Query: "tapir" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "distance(location,geopoint(33.802489436786,-106.865426345))&lt;4226" ; Times: 3
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Molossus rufus" ; Times: 1
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 4
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "Los Angeles Pocket Mouse" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "distance(location,geopoint(33.4988060165,-104.408602877))&lt;15213" ; Times: 3
+	Query: "&#34;Tapirus bairdii&#34; mappable:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:cynomys family:sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "Odocoileus virginianus mappable:1 hastissue:1" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "hedgehog" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 121 (out of 1398 download events in this period)
+Total number of records downloaded: 20144
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 13
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 89
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 5
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-30 ; Times: 10
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 14
+	Date: 2018-01-06 ; Times: 14
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-31 ; Times: 10
+	Date: 2018-01-22 ; Times: 8
+	Date: 2018-01-16 ; Times: 5
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-24 ; Times: 8
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-25 ; Times: 11
+	Date: 2018-01-23 ; Times: 13
+	Date: 2018-01-26 ; Times: 4
+	Date: 2018-01-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "Myotis grisescens mappable:1" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "melanomys" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Nevada&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "Dermanura" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "rusa unicolor continent:asia" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 1
+	Query: "sigmodontomys" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga hastissue:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "genus:vulpes velox stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "genus:Odocoileus virginianus year &gt;= 1700 year &lt;= 1990 hasmass:1" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "bottlenose dolphin mappable:1" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Lasiurus seminolus mappable:1" ; Times: 1
+
+
+End of report.
