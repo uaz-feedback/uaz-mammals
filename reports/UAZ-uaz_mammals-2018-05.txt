@@ -1,0 +1,186 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 790
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 8
+	Country: Mexico ; Times: 14
+	Country: Tunisia ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 2
+	Country: United States ; Times: 74
+	Country: China ; Times: 7
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 7
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 10
+	Date: 2018-05-04 ; Times: 9
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 7
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 9
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 10
+	Date: 2018-05-16 ; Times: 17
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(46.4422339105001,-96.13322835))&lt;31668" ; Times: 2
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 2
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 2
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 2
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;mohave&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 2
+	Query: "lepus callotis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:UAZ" ; Times: 1
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 1
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:UAZ" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "specificepithet:eremicus genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:UAZ" ; Times: 1
+	Query: "tricolored bat" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UAZ" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "UAZ Bezy Colorado" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 13
+	Query: "vampire" ; Times: 3
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "capybara" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:irroratus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "upper bighorn" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "distance(location,geopoint(42.5689265032855,-90.6889959625))&lt;12926" ; Times: 2
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1960 year &lt;= 1969 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "Tapir" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:eva genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "10048 Myotis" ; Times: 1
+	Query: "catalognumber:UAZ 22465" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "distance(location,geopoint(45.1758107335,-95.006240064))&lt;32848" ; Times: 2
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 2
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;alpine&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:getulus genus:Atlantoxerus mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:UAZ" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:aztecus genus:molossus" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1178 download events in this period)
+Total number of records downloaded: 9135
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "african Elephant" ; Times: 3
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "OJO DE AGUA (VERACRUZ)" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+
+
+End of report.
