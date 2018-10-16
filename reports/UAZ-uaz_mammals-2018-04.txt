@@ -1,0 +1,506 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 536
+Number of records retrieved in searches: 12134
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 502
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Montenegro ; Times: 1
+	Country: China ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-23 ; Times: 200
+	Date: 2018-04-22 ; Times: 16
+	Date: 2018-04-21 ; Times: 40
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 5
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 42
+	Date: 2018-04-24 ; Times: 151
+	Date: 2018-04-01 ; Times: 15
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 8
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-12 ; Times: 5
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dasyprocta specificepithet:punctata mappable:1" ; Times: 1
+	Query: "genus:Odocoileus specificepithet:virginianus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:volans mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:baileyi mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanophrys mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Conepatus specificepithet:leuconotus mappable:1 hasmass:1" ; Times: 1
+	Query: "Mephitis macroura mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Neotomodon specificepithet:alstoni mappable:1" ; Times: 1
+	Query: "genus:Baiomys specificepithet:taylori mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:insularis mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:difficilis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:eva mappable:1" ; Times: 1
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 3
+	Query: "thomomys umbrinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "sigmodon ochrognathus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Oryzomys specificepithet:palustris mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Carollia subrufa hasmass:1 mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "genus:Condylura specificepithet:cristata mappable:1 hasmass:1" ; Times: 1
+	Query: "Molossus sinaloae mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:micropus mappable:1 hasmass:1" ; Times: 1
+	Query: "iowa Myotis lucifugus" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bulbivorus mappable:1 hasmass:1" ; Times: 2
+	Query: "peromyscus merriami stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:aureogaster mappable:1 hasmass:1" ; Times: 2
+	Query: "Choeronycteris mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus mappable:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:carolinensis mappable:1 hasmass:1" ; Times: 3
+	Query: "genus:Potos specificepithet:flavus mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:fallax mappable:1 hasmass:1" ; Times: 1
+	Query: "mephitis mephitis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Ammospermophilus specificepithet:harrisii mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:spilosoma mappable:1" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "Tragulus napu" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:microps mappable:1 hasmass:1" ; Times: 1
+	Query: "iowa Myotis keenii" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "perognathus longimembris stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "genus:Cynomys specificepithet:gunnisoni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Scapanus specificepithet:townsendii mappable:1 hasmass:1" ; Times: 3
+	Query: "genus:Chaetodipus specificepithet:pernix mappable:1 hasmass:1" ; Times: 1
+	Query: "microtus mexicanus stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "genus:Conepatus specificepithet:leuconotus mappable:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:stephani mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:floridanus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:heermanni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1 hasmass:1" ; Times: 1
+	Query: "Liomys salvini mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:penicillatus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:mexicanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:robinsoni mappable:1" ; Times: 1
+	Query: "genus:Lontra specificepithet:longicaudis mappable:1" ; Times: 1
+	Query: "vulpes vulpes stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "porcus" ; Times: 1
+	Query: "genus:Vulpes specificepithet:lagopus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Heteromys specificepithet:desmarestianus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:annulatus mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:nanus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:fumeus mappable:1 hasmass:1" ; Times: 2
+	Query: "Peromyscus aztecus mappable:1 hasmass:1" ; Times: 1
+	Query: "Myotis thysanodes mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:creper mappable:1" ; Times: 1
+	Query: "genus:Pappogeomys specificepithet:bulleri mappable:1" ; Times: 1
+	Query: "Balantiopteryx plicata mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 8
+	Query: "Carollia subrufa hasmass:1" ; Times: 1
+	Query: "panthera onca stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:aberti mappable:1 hasmass:1" ; Times: 2
+	Query: "lasiurus xanthinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Onychomys specificepithet:leucogaster mappable:1 hasmass:1" ; Times: 1
+	Query: "Liomys pictus mappable:1 hasmass:1" ; Times: 1
+	Query: "Baiomys musculus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:beecheyi mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:quadrimaculatus mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 3
+	Query: "catalognumber:14706 institutioncode:UAZ" ; Times: 3
+	Query: "genus:Sorex specificepithet:nanus mappable:1" ; Times: 2
+	Query: "genus:Oryzomys specificepithet:couesi mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tlacuatzin specificepithet:canescens mappable:1 hasmass:1" ; Times: 2
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "genus:Tamias specificepithet:obscurus mappable:1" ; Times: 2
+	Query: "idionycteris phyllotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:quadrimaculatus mappable:1" ; Times: 2
+	Query: "eumops underwoodi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Eumops underwoodi mappable:1 hasmass:1" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "Northern fur seal" ; Times: 1
+	Query: "margay" ; Times: 1
+	Query: "lepus alleni stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Peromyscus gymnotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Mephitis specificepithet:macroura mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:stephensi mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tylomys specificepithet:nudicaudus mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:merriami mappable:1" ; Times: 2
+	Query: "white tail deer" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:mexicanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Scapanus specificepithet:latimanus mappable:1 hasmass:1" ; Times: 3
+	Query: "nyctinomops femorosaccus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:gossypinus mappable:1 hasmass:1" ; Times: 1
+	Query: "dipodomys spectabilis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Panthera specificepithet:onca mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:eva mappable:1 hasmass:1" ; Times: 1
+	Query: "myotis occultus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Marmosa specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Pappogeomys specificepithet:bulleri mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Scapanus specificepithet:orarius mappable:1 hasmass:1" ; Times: 3
+	Query: "bullfrog hasmass:1" ; Times: 1
+	Query: "genus:Nelsonia specificepithet:neotomodon mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:spinatus mappable:1 hasmass:1" ; Times: 1
+	Query: "Sigmodontomys alfari mappable:1 hasmass:1" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "genus:Neotoma specificepithet:macrotis mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 2
+	Query: "ictidomys tridecemlineatus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Vulpes specificepithet:macrotis mappable:1 hasmass:1" ; Times: 2
+	Query: "Myotis auriculus mappable:1 hasmass:1" ; Times: 1
+	Query: "Artibeus phaeotis mappable:1 hasmass:1" ; Times: 1
+	Query: "myotis velifer stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "genus:Nasua specificepithet:narica mappable:1" ; Times: 1
+	Query: "genus:Cratogeomys specificepithet:fumosus mappable:1" ; Times: 1
+	Query: "peromyscus nasutus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "sciurus arizonensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Nasua narica mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:californicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Procyon specificepithet:lotor mappable:1 hasmass:1" ; Times: 3
+	Query: "genus:Bassariscus specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Parascalops specificepithet:breweri mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:saussurei mappable:1" ; Times: 2
+	Query: "Tlacuatzin canescens mappable:1" ; Times: 1
+	Query: "genus:Mephitis specificepithet:mephitis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:hylocetes mappable:1" ; Times: 1
+	Query: "genus:Nectomys specificepithet:squamipes mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor mappable:1 hasmass:1" ; Times: 2
+	Query: "Eumops underwoodi mappable:1" ; Times: 2
+	Query: "fossil creek arizona" ; Times: 1
+	Query: "genus:Perognathus specificepithet:amplus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Notiosorex specificepithet:evotis mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:goldmani mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:guardia mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:frenata mappable:1 hasmass:1" ; Times: 1
+	Query: "Centurio senex mappable:1 hasmass:1" ; Times: 1
+	Query: "sciurus nayaritensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:leucurus mappable:1 hasmass:1" ; Times: 1
+	Query: "Dermanura aztecus mappable:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:alleni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Oligoryzomys specificepithet:fulvescens mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:madrensis mappable:1" ; Times: 2
+	Query: "genus:Microdipodops specificepithet:pallidus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Marmota specificepithet:flaviventris mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:richardsoni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:arcticus mappable:1 hasmass:1" ; Times: 2
+	Query: "Glossophaga leachii mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:fulvescens mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Cynomys specificepithet:ludovicianus mappable:1 hasmass:1" ; Times: 1
+	Query: "Tlacuatzin canescens hasmass:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:floridana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tapirus specificepithet:bairdii mappable:1" ; Times: 2
+	Query: "genus:Tlacuatzin specificepithet:canescens mappable:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "Bassariscus astutus mappable:1 hasmass:1" ; Times: 2
+	Query: "tamiasciurus hudsonicus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Perognathus specificepithet:flavus mappable:1 hasmass:1" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "cynomys gunnisoni stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Sigmodontomys specificepithet:alfari mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Liomys specificepithet:irroratus mappable:1 hasmass:1" ; Times: 1
+	Query: "dipodomys microps stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:fulviventer mappable:1 hasmass:1" ; Times: 2
+	Query: "Oryzomys couesi mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Reithrodontomys sumichrasti mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "microtus montanus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "neotamias minimus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "catalognumber:27889 institutioncode:UAZ" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "genus:Geomys specificepithet:arenarius mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:dorsalis mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Didelphis specificepithet:virginiana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:californicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:simulans mappable:1" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus mappable:1" ; Times: 2
+	Query: "specificepithet:creper genus:reithrodontomys" ; Times: 2
+	Query: "sigmodon hispidus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:stephani mappable:1" ; Times: 1
+	Query: "genus:Scalopus specificepithet:aquaticus mappable:1 hasmass:1" ; Times: 1
+	Query: "Peromyscus melanophrys mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:griseus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Mephitis specificepithet:macroura mappable:1" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "genus:Ochrotomys specificepithet:nuttalli mappable:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:27914 institutioncode:UAZ" ; Times: 1
+	Query: "genus:Tamias specificepithet:palmeri mappable:1" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:mexicanus mappable:1 hasmass:1" ; Times: 2
+	Query: "lasiurus blossevillii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Orthogeomys specificepithet:hispidus mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:arenarius mappable:1 hasmass:1" ; Times: 1
+	Query: "Pteronotus davyi mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Onychomys specificepithet:torridus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:intermedius mappable:1 hasmass:1" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla mappable:1" ; Times: 2
+	Query: "genus:Geomys specificepithet:arenarius mappable:1" ; Times: 1
+	Query: "neotamias cinereicollis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Eira specificepithet:barbara mappable:1" ; Times: 1
+	Query: "macrotus californicus stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "genus:Ondatra specificepithet:zibethicus mappable:1 hasmass:1" ; Times: 1
+	Query: "hispid cotton rat stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Sciurus specificepithet:colliaei mappable:1" ; Times: 2
+	Query: "antelope ground squirrel" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:hispidus mappable:1 hasmass:1" ; Times: 1
+	Query: "cynomys ludovicianus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:melanotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Perognathus specificepithet:longimembris mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:arizonensis mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:umbrinus mappable:1 hasmass:1" ; Times: 2
+	Query: "mule deer" ; Times: 1
+	Query: "genus:Tamias specificepithet:palmeri mappable:1 hasmass:1" ; Times: 2
+	Query: "artibeus aztecus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:douglasii mappable:1 hasmass:1" ; Times: 2
+	Query: "leptonycteris yerbabuenae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Ammospermophilus specificepithet:nelsoni mappable:1" ; Times: 1
+	Query: "Natalus stramineus mappable:1 hasmass:1" ; Times: 1
+	Query: "eumops perotis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "sciurus aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:spectabilis mappable:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:27845 institutioncode:UAZ" ; Times: 1
+	Query: "myotis evotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:dalquesti mappable:1 hasmass:1" ; Times: 1
+	Query: "myotis yumanensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Sigmodon specificepithet:arizonae mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "genus:otomys hasmass:1" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Canis specificepithet:rufus mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "neotamias quadrivittatus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Melanomys specificepithet:caliginosus mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:dalquesti mappable:1" ; Times: 1
+	Query: "genus:Baiomys specificepithet:musculus mappable:1 hasmass:1" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "genus:Hodomys specificepithet:alleni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Metachirus specificepithet:nudicaudatus mappable:1" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus mappable:1" ; Times: 1
+	Query: "Myotis fortidens mappable:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus astutus hasmass:1 mappable:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:variegatus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:merriami mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:obscurus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:merriami mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Metachirus specificepithet:nudicaudatus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:alleni mappable:1" ; Times: 1
+	Query: "genus:Castor specificepithet:canadensis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:mexicanus mappable:1" ; Times: 2
+	Query: "bobcat mappable:1" ; Times: 5
+	Query: "genus:Lepus specificepithet:callotis mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:nayaritensis mappable:1" ; Times: 2
+	Query: "genus:Canis specificepithet:latrans mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Brachylagus specificepithet:idahoensis mappable:1" ; Times: 1
+	Query: "sylvilagus nuttallii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Notiosorex specificepithet:crawfordi mappable:1 hasmass:1" ; Times: 1
+	Query: "Mormoops megalophylla mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:aztecus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Chironectes specificepithet:minimus mappable:1" ; Times: 1
+	Query: "genus:Saguinus specificepithet:fuscicollis mappable:1" ; Times: 1
+	Query: "genus:Sigmodontomys specificepithet:alfari mappable:1" ; Times: 2
+	Query: "corynorhinus townsendii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Ammospermophilus specificepithet:interpres mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis mappable:1 hasmass:1" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "genus:Sylvilagus specificepithet:aquaticus mappable:1" ; Times: 2
+	Query: "nelsonia neotomodon" ; Times: 2
+	Query: "genus:Myoprocta specificepithet:pratti mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Perognathus specificepithet:flavescens mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Romerolagus specificepithet:diazi mappable:1" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1 hasmass:1" ; Times: 2
+	Query: "neotamias umbrinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Aplodontia specificepithet:rufa mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:simulans mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "genus:Puma specificepithet:yagouaroundi mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:artus mappable:1 hasmass:1" ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 3
+	Query: "genus:Peromyscus specificepithet:nasutus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Saguinus specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:panamintinus mappable:1 hasmass:1" ; Times: 2
+	Query: "neotoma stephensi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Thomomys specificepithet:bulbivorus mappable:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Scalopus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:sumichrasti mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:spilosoma mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 3
+	Query: "genus:Cryptotis specificepithet:parva mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:cunicularius mappable:1" ; Times: 2
+	Query: "genus:Myoprocta specificepithet:pratti mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:arizonensis mappable:1" ; Times: 2
+	Query: "vulpes macrotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:elator mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:nayaritensis mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:stephensi mappable:1" ; Times: 1
+	Query: "specificepithet:unicolor genus:Rusa mappable:1" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "genus:Pecari specificepithet:tajacu mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:tereticaudus mappable:1" ; Times: 2
+	Query: "genus:Proechimys specificepithet:semispinosus mappable:1" ; Times: 2
+	Query: "genus:Thomomys specificepithet:umbrinus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Urocyon specificepithet:cinereoargenteus mappable:1 hasmass:1" ; Times: 2
+	Query: "iowa Eptesicus" ; Times: 1
+	Query: "genus:Microtus specificepithet:pinetorum mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:quadrivittatus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Ammospermophilus specificepithet:interpres mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:tereticaudus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:striatus mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:nelsoni mappable:1" ; Times: 1
+	Query: "Saguinus geoffroyi hasmass:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:deserti mappable:1 hasmass:1" ; Times: 1
+	Query: "laduc" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Sorex specificepithet:merriami mappable:1 hasmass:1" ; Times: 2
+	Query: "ammospermophilus harrisii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "genus:Neotoma specificepithet:goldmani mappable:1" ; Times: 1
+	Query: "choeronycteris mexicana stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:nelsoni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Osgoodomys specificepithet:banderanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Thomomys recordedby:Baker" ; Times: 2
+	Query: "genus:Tamias specificepithet:cinereicollis mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Nasua specificepithet:narica mappable:1 hasmass:1" ; Times: 1
+	Query: "Conepatus leuconotus mappable:1 hasmass:1" ; Times: 2
+	Query: "Lasiurus intermedius mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Hodomys specificepithet:alleni mappable:1" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1359 download events in this period)
+Total number of records downloaded: 6214
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Poland ; Times: 4
+	Country: India ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 9
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 10
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 3
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:unicolor genus:Rusa mappable:1" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "lepus europaeus" ; Times: 1
+	Query: "distance(location,geopoint(35.41059,-99.05879))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Mammals Illinois Cook" ; Times: 4
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "Heteromyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+
+
+End of report.
