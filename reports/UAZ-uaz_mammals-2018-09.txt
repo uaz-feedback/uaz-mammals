@@ -1,0 +1,201 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 1155
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 5
+	Country: Czechia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 87
+	Country: China ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Iceland ; Times: 3
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 6
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 25
+	Date: 2018-09-26 ; Times: 13
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-21 ; Times: 7
+	Date: 2018-09-04 ; Times: 6
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-08 ; Times: 4
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 2
+	Date: 2018-09-30 ; Times: 12
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 6
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "Tamias obscurus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera family:Felidae order:Carnivora lengthtype:total length haslength:1" ; Times: 1
+	Query: "glyphonycteris" ; Times: 1
+	Query: "Haplorrhini" ; Times: 3
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 2
+	Query: "vampire" ; Times: 7
+	Query: "Wolverine" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "genus:Napaeozapus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(34.73519237920962,-78.30322265625))&lt;291582.01899794535" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "Funambulus pennantii" ; Times: 1
+	Query: "03246" ; Times: 1
+	Query: "specificepithet:fumosus genus:Cratogeomys" ; Times: 2
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 2
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(29.755687845613867,-97.06787109375))&lt;247840.770513055" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:myotis hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "Leptonycteris yerbabuenae hastissue:1" ; Times: 2
+	Query: "genus:sigmodon county:&#34;Cochise&#34;" ; Times: 3
+	Query: "specificepithet:simulans genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Chaetodipus country:&#34;Mexico&#34; recordedby:J.L. Patton institutioncode:UAZ" ; Times: 1
+	Query: "Artibeus aztecus" ; Times: 3
+	Query: "Corynorhinus rafinesquii mappable:1" ; Times: 1
+	Query: "Anomalurus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus institutioncode:UAZ" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "tapir" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.16780206722523,-79.13818359375))&lt;359110.6091394876" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "family:canidae order:carnivora genus:urocyon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:UAZ 20428 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Callosciurus caniceps" ; Times: 2
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae stateprovince:&#34;-&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "catalognumber:15785 institutioncode:UAZ" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Chaetodipus stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 3
+	Query: "specificepithet:nigrovittatus genus:Callosciurus" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;grant&#34;" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 8
+	Query: "specificepithet:pallidus genus:microdipodops stateprovince:&#34;nevada&#34; year &gt;= 1960 year &lt;= 1990" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.16780206722523,-79.13818359375))&lt;291582" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "Glyphonycteris" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "peromyscus guardia" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.26482978773833,-88.93798828125))&lt;100000" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus recordedby:J.L. Patton institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:umbrinus genus:Thomomys stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:fallax family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Arizona&#34; AND (NOT MSB)" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "catalognumber:15813 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:bulleri genus:Pappogeomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 846 download events in this period)
+Total number of records downloaded: 2046
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 16
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-15 ; Times: 4
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 10
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 6
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes mappable:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris yerbabuenae hastissue:1" ; Times: 2
+	Query: "notiosorex" ; Times: 3
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "dark kangaroo mouse" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae stateprovince:&#34;-&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "specificepithet:unicolor genus:Rusa mappable:1" ; Times: 1
+	Query: "specificepithet:phenax genus:Neotoma" ; Times: 2
+	Query: "specificepithet:aureus genus:Canis mappable:1" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:goldmani genus:Chaetodipus" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "class:mammalia county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+
+
+End of report.
