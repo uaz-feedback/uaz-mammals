@@ -1,0 +1,198 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 515
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 58
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 25
+	Country: Denmark ; Times: 3
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-28 ; Times: 9
+	Date: 2018-08-30 ; Times: 7
+	Date: 2018-08-31 ; Times: 4
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-09 ; Times: 21
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-17 ; Times: 6
+	Date: 2018-08-29 ; Times: 6
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 4
+	Date: 2018-08-21 ; Times: 10
+	Date: 2018-08-20 ; Times: 7
+	Date: 2018-08-05 ; Times: 4
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 8
+	Date: 2018-08-03 ; Times: 5
+	Date: 2018-08-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "jaguarundi" ; Times: 2
+	Query: "tamias obscurus distance(location,geopoint(33.62501199382827,-116.56209940432336))&lt;61304" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "UAZ 4457" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus county:&#34;humboldt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "western pipistrelle" ; Times: 1
+	Query: "tamias obscurus distance(location,geopoint(33.69861370916868,-116.62801737307336))&lt;100000" ; Times: 1
+	Query: "tamias obscurus distance(location,geopoint(33.62501199382827,-116.56209940432336))&lt;23625" ; Times: 1
+	Query: "specificepithet:fuscicollis genus:Saguinus mappable:1 country:Peru" ; Times: 5
+	Query: "(Microtus guentheri)" ; Times: 4
+	Query: "Raw" ; Times: 2
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "genus:solenodon" ; Times: 1
+	Query: "dipodomys elator" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 4
+	Query: "specificepithet:pinetorum genus:Microtus hastissue:1" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;New Mexico&#34; preparations:skull" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "petromus" ; Times: 1
+	Query: "specificepithet:Obscurus genus:Tamias (Jacinto)" ; Times: 1
+	Query: "UAZ 24935" ; Times: 1
+	Query: "genus:peromyscus catalognumber:10760" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 22
+	Query: "UAZ 7425" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "tamias obscurus distance(location,geopoint(33.62501199382827,-116.56209940432336))&lt;100000" ; Times: 1
+	Query: "european rabbit" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Red Fox skeleton" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "UAZ 4459" ; Times: 1
+	Query: "family:Dasyuridae preparations:Skeleton" ; Times: 1
+	Query: "UAZ 06407" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "sorex alpinus" ; Times: 3
+	Query: "26380" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "26582" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.3730985540974,-79.01234844792259))&lt;295070.55051211215" ; Times: 1
+	Query: "least weasel" ; Times: 4
+	Query: "order:Primates country:Peru" ; Times: 1
+	Query: "dermanura phaeotis stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Mohave ground squirrel" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "UAZ 11933" ; Times: 2
+	Query: "UAZ 11932" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(31.293937179208516,-76.90297344792259))&lt;467941.1417995581" ; Times: 1
+	Query: "family:Lemuridae institutioncode:UAZ" ; Times: 2
+	Query: "tamias obscurus" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "euderma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1416 download events in this period)
+Total number of records downloaded: 4241
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 8
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-23 ; Times: 8
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "dasypterus ega" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "myotis auriculus" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(30.72898176230783,-97.11781719792259))&lt;467941.1417995581" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.15262612841528,-78.30922344792259))&lt;467941.1417995581" ; Times: 2
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
