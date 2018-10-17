@@ -1,0 +1,231 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 917
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 49
+	Country: China ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-28 ; Times: 5
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 5
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 9
+	Date: 2018-06-22 ; Times: 5
+	Date: 2018-06-11 ; Times: 13
+	Date: 2018-06-12 ; Times: 8
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "Solenodontidae" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "genus:Lemur" ; Times: 1
+	Query: "bolsa chica class:mammalia" ; Times: 1
+	Query: "genus:ARTIBEUS order:CHIROPTERA locality:ROMERO institutioncode:UAZ" ; Times: 1
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "naked mole rat" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "family:Lemuridae institutioncode:UAZ" ; Times: 2
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "western squirrel" ; Times: 1
+	Query: "specificepithet:plicata genus:balantiopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "cienega creek county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 3
+	Query: "specificepithet:plicata genus:balantiopteryx locality:tapanatepec stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "NOTIOSOREX HIDALGO" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34; institutioncode:UAZ" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;colorado&#34; (niwot)" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "nilgai" ; Times: 2
+	Query: "bangs specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "Lontra longicaudis Mexico" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "genus:Saccopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "neotamias obscurus" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "didelphis stanislaus county california" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "bobcat stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "genus:Eumops stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Dasypterus Colima" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "Desert bighorn sheep" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "bolsa chica order:rodentia" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "specificepithet:musculoides genus:mus country:&#34;kenya&#34; institutioncode:UAZ" ; Times: 2
+	Query: "specificepithet:musculoides genus:mus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "specificepithet:parnellii genus:pteronotus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Morro bay kangaroo rat" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "crocidura poensis" ; Times: 1
+	Query: "Anomalurus beecrofti" ; Times: 2
+	Query: "genus:dipodomys catalognumber:11179" ; Times: 2
+	Query: "specificepithet:Macrotis genus:Nyctinomops county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 2
+	Query: "specificepithet:perspicillata genus:carollia stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "Seal Fur" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:UAZ" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:GLOSSOPHAGA order:CHIROPTERA locality:CINTALAPA institutioncode:UAZ" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "family:Lemuridae" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "Baeodon alleni" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "specificepithet:io genus:balantiopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1169 download events in this period)
+Total number of records downloaded: 4640
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 21
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 16
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 9
+	Date: 2018-06-19 ; Times: 7
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "sloth" ; Times: 4
+	Query: "sea otter" ; Times: 2
+	Query: "Mysticeti" ; Times: 1
+	Query: "peromyscus perfulvus" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;colorado&#34; (niwot)" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "nilgai" ; Times: 5
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "American Beaver" ; Times: 4
+	Query: "Morro bay kangaroo rat" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "osgoodomys" ; Times: 1
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "hodomys alleni" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
