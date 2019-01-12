@@ -1,0 +1,269 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1975
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 82
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 44
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 11
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-19 ; Times: 13
+	Date: 2018-12-02 ; Times: 10
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-03 ; Times: 25
+	Date: 2018-12-21 ; Times: 12
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 7
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-14 ; Times: 12
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-29 ; Times: 3
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-04 ; Times: 14
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flavus genus:Perognathus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Didelphis marsupialis mappable:1" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus country:&#34;Mexico&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "choeronycteris stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34; year &lt;= 1970 institutioncode:UAZ" ; Times: 1
+	Query: "tamandua mappable:1" ; Times: 2
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Sigmodon hispidus county:&#34;Yuma&#34; stateprovince:&#34;Arizona&#34; institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 2
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "jaguarundi" ; Times: 2
+	Query: "Sigmodon hispidus stateprovince:&#34;Arizona&#34; institutioncode:UAZ" ; Times: 1
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34; institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Arizona&#34; year &gt;= 1978 year &lt;= 1981 institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:albigula genus:Neotoma locality:gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; year &gt;= 1978 year &lt;= 1981 institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:gila stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "panthera  tigris" ; Times: 1
+	Query: "choeronycteris stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex hasmass:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "specificepithet:boylii genus:Peromyscus locality:Cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34; year &gt;= 1970 institutioncode:UAZ" ; Times: 1
+	Query: "25721" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:UAZ hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus stateprovince:&#34;Louisiana&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen skull" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "cochise r28e" ; Times: 2
+	Query: "genus:Lophostoma brasiliense" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 6
+	Query: "sonora notiosorex" ; Times: 2
+	Query: "choeronycteris mexicana vntype:specimen institutioncode:UAZ" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 2
+	Query: "choeronycteris stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "cienega creek" ; Times: 4
+	Query: "specificepithet:megalotis genus:Reithrodontomys locality:Cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "choeronycteris vntype:specimen hastissue:1" ; Times: 5
+	Query: "16431" ; Times: 3
+	Query: "cienega creek arizona" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis family:Canidae country:&#34;Mexico&#34; (sonora)" ; Times: 1
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys institutioncode:UAZ" ; Times: 2
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "NOTIOSOREX SONORA" ; Times: 6
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Canis rufus" ; Times: 11
+	Query: "choeronycteris stateprovince:&#34;california&#34; year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys locality:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 2
+	Query: "eumops underwoodi" ; Times: 1
+	Query: "panthera onca arizona" ; Times: 1
+	Query: "haslength:1 Chironectes minimus" ; Times: 2
+	Query: "genus:sigmodon institutioncode:UAZ" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Arizona&#34; recordedby:Peck year &gt;= 1978 year &lt;= 1990 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon family:Canidae country:&#34;Mexico&#34; (sonora)" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "Steatomys" ; Times: 2
+	Query: "NOTIOSOREX SONORA." ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "locality:Oak Grove county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia Ammospermophilus nelsoni" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Arizona&#34; preparations:skin year &gt;= 1880 year &lt;= 1970 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "Natterer" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Zacatecas&#34; country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 3
+	Query: "setifer setosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 102 (out of 809 download events in this period)
+Total number of records downloaded: 6144
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 56
+	Country: India ; Times: 9
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Germany ; Times: 1
+	Country: Taiwan ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-09 ; Times: 35
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-10 ; Times: 20
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 6
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 11
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Molossus molossus" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Ethiopia" ; Times: 1
+	Query: "nyctinomops laticaudatus" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "lynx lynx" ; Times: 1
+	Query: "Molossus rufus" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "oligoryzomys fulvescens" ; Times: 1
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Artibeus phaeotis" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "chiroptera vietnam" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "class:Mammalia county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys institutioncode:UAZ" ; Times: 3
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "rhynchonycteris naso" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "vietnam" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+
+
+End of report.
