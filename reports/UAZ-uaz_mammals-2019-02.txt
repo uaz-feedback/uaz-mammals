@@ -1,0 +1,198 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 915
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 124
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-10 ; Times: 8
+	Date: 2019-02-13 ; Times: 18
+	Date: 2019-02-12 ; Times: 7
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-16 ; Times: 6
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 34
+	Date: 2019-02-26 ; Times: 14
+	Date: 2019-02-27 ; Times: 14
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-07 ; Times: 10
+	Date: 2019-02-22 ; Times: 5
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 3
+	Date: 2019-02-28 ; Times: 11
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "specificepithet:macroura genus:Mephitis stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "genus:Leptonycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 4
+	Query: "Neotamias quadrimaculatus" ; Times: 3
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "myotis ciliolabrum stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "american water shrew" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 15
+	Query: "american Pika" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "Tamias quadrimaculatus" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "class:mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Fisher&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys institutioncode:UAZ" ; Times: 2
+	Query: "13463" ; Times: 1
+	Query: "specificepithet:castanops stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "24722 genus:DIPODOMYS" ; Times: 1
+	Query: "myotis ciliolabrum hastissue:1" ; Times: 4
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "17499" ; Times: 1
+	Query: "gbifdatasetid:96275bf2-8999-4869-95d5-4903a84391b0" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "yagouaroundi" ; Times: 4
+	Query: "female skeletons" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "American Pika" ; Times: 3
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "Notiosorex crawfordi vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "tricolor bat" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:obscurus genus:tamias institutioncode:UAZ" ; Times: 3
+	Query: "specificepithet:fulviventer genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:bowersi genus:berylmys" ; Times: 1
+	Query: "Myotis californicus hastissue:1" ; Times: 1
+	Query: "Reid Park Zoo" ; Times: 4
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "poliocitellus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Erophylla" ; Times: 1
+	Query: "American pika" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Dipodomys elator vntype:specimen county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 6
+	Query: "tailed frog" ; Times: 2
+	Query: "specificepithet:merriami genus:tamias institutioncode:UAZ" ; Times: 3
+	Query: "specificepithet:phyllotis genus:Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lontra longicaudis country:&#34;Mexico&#34;" ; Times: 2
+	Query: "american pika" ; Times: 26
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "&#34;american pika&#34;" ; Times: 1
+	Query: "genus:Lophostoma order:Chiroptera class:Mammalia institutioncode:UAZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris family:Vespertilionidae order:Chiroptera class:Mammalia stateprovince:&#34;Arizona&#34; year &gt;= 1800 year &lt;= 2019 institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Euderma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14082 institutioncode:UAZ" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "specificepithet:cunicularius genus:sylvilagus" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "Microcebus" ; Times: 4
+	Query: "swift fox" ; Times: 1
+	Query: "Chaetodipus hispidus vntype:specimen county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1227 download events in this period)
+Total number of records downloaded: 566
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 23
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 7
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Fisher&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Notiosorex crawfordi vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "berylmys" ; Times: 2
+	Query: "Panthera onca" ; Times: 6
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Lontra longicaudis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Sorex vagrans vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "panthera onca" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAZ" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "&#34;Apodemus mystacinus&#34;" ; Times: 1
+
+
+End of report.
