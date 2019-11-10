@@ -1,0 +1,420 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 639
+Number of records retrieved in searches: 9264
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Guatemala ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Thailand ; Times: 150
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 441
+	Country: Brazil ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-12 ; Times: 9
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-18 ; Times: 11
+	Date: 2019-09-19 ; Times: 31
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 21
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-06 ; Times: 23
+	Date: 2019-09-05 ; Times: 155
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-21 ; Times: 17
+	Date: 2019-09-20 ; Times: 22
+	Date: 2019-09-23 ; Times: 43
+	Date: 2019-09-22 ; Times: 10
+	Date: 2019-09-25 ; Times: 63
+	Date: 2019-09-24 ; Times: 61
+	Date: 2019-09-27 ; Times: 55
+	Date: 2019-09-26 ; Times: 86
+
+List of queries that retrieved data from the resource: 
+	Query: "Platymops setiger haslength:1" ; Times: 1
+	Query: "genus:Idionycteris hastissue:1" ; Times: 6
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Carollia subrufa haslength:1" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 1
+	Query: "Chiroderma salvini haslength:1" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari hasmass:1 haslength:1" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 1
+	Query: "Eumops perotis haslength:1" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "Rhogeessa alleni haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1950 year &lt;= 1959 hassex:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 129
+	Query: "Myotis sodalis" ; Times: 15
+	Query: "Epomophorus labiatus haslength:1" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 3
+	Query: "Pteropus tonganus haslength:1" ; Times: 1
+	Query: "Eptesicus furinalis haslength:1" ; Times: 1
+	Query: "Mesophylla macconnelli haslength:1" ; Times: 1
+	Query: "Saccopteryx leptura haslength:1" ; Times: 1
+	Query: "Noctilio albiventris haslength:1" ; Times: 1
+	Query: "Rhogeessa parvula haslength:1" ; Times: 1
+	Query: "Micronycteris megalotis haslength:1" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Trachops cirrhosus haslength:1" ; Times: 1
+	Query: "Thyroptera tricolor haslength:1" ; Times: 1
+	Query: "Dermanura phaeotis haslength:1" ; Times: 1
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Euderma maculatum haslength:1" ; Times: 1
+	Query: "Rhogeessa alleni" ; Times: 1
+	Query: "Lissonycteris angolensis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 4
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "Myotis vivesi haslength:1" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua hasmass:1 haslength:1" ; Times: 1
+	Query: "Artibeus hirsutus haslength:1" ; Times: 1
+	Query: "Glyphonycteris sylvestris haslength:1" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "Pteronotus davyi haslength:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Molossus rufus haslength:1" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Artibeus (dermanura) aztecus" ; Times: 1
+	Query: "Myotis grisescens haslength:1" ; Times: 1
+	Query: "Leptonycteris yerbabuenae haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Epomophorus wahlbergi haslength:1" ; Times: 1
+	Query: "Rhynchonycteris naso haslength:1" ; Times: 1
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "Rousettus aegyptiacus haslength:1" ; Times: 1
+	Query: "specificepithet:leuconotus genus:Conepatus hasmass:1 haslength:1" ; Times: 1
+	Query: "Musonycteris harrisoni haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Nyctinomops laticaudatus haslength:1" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "Chaerephon pumilus haslength:1" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 7
+	Query: "Eidolon helvum haslength:1" ; Times: 1
+	Query: "Mystacina tuberculata haslength:1" ; Times: 1
+	Query: "Mops condylurus haslength:1" ; Times: 1
+	Query: "&#34;bliss ranch&#34;" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris phyllotis" ; Times: 2
+	Query: "Balantiopteryx io haslength:1" ; Times: 1
+	Query: "Chiroderma trinitatum haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:female hassex:1" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:Phyllotis genus:Idionycteris" ; Times: 1
+	Query: "Rhinolophus ferrumequinum haslength:1" ; Times: 1
+	Query: "Lasiurus xanthinus haslength:1" ; Times: 1
+	Query: "order:Primates class:Mammalia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Enchisthenes hartii haslength:1" ; Times: 1
+	Query: "Myotis blythii haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "Diphylla ecaudata haslength:1" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "Scotophilus kuhlii haslength:1" ; Times: 1
+	Query: "Myotis auriculus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 116
+	Query: "Saguinus geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Idionycteris phyllotis" ; Times: 5
+	Query: "Rhinolophus euryale haslength:1" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 4
+	Query: "Glossophaga leachii haslength:1" ; Times: 1
+	Query: "Epomophorus gambianus haslength:1" ; Times: 1
+	Query: "Sturnira tildae haslength:1" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea hasmass:1 haslength:1" ; Times: 1
+	Query: "Pteropus molossinus" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1" ; Times: 7
+	Query: "specificepithet:melanotis genus:Peromyscus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis hasmass:1 haslength:1" ; Times: 1
+	Query: "Phyllostomus hastatus haslength:1" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "Erophylla bombifrons haslength:1" ; Times: 1
+	Query: "Molossus aztecus haslength:1" ; Times: 1
+	Query: "Eumops underwoodi haslength:1" ; Times: 1
+	Query: "genus:notiosorex county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "locality:chapala stateprovince:&#34;Jalisco&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:OBSCURUS genus:tamias institutioncode:UAZ" ; Times: 1
+	Query: "Sturnira mordax haslength:1" ; Times: 1
+	Query: "Plecotus austriacus haslength:1" ; Times: 1
+	Query: "specificepithet:crawfordi genus:notiosorex institutioncode:UAZ" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "specificepithet:elator genus:Dipodomys county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "nivalis mustela" ; Times: 2
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1 hastissue:1" ; Times: 3
+	Query: "Natalus stramineus haslength:1" ; Times: 1
+	Query: "Diclidurus albus haslength:1" ; Times: 1
+	Query: "Artibeus lituratus haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "Sturnira lilium haslength:1" ; Times: 1
+	Query: "Cardioderma cor haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1940 year &lt;= 1949 hassex:1" ; Times: 1
+	Query: "Pipistrellus nathusii haslength:1" ; Times: 1
+	Query: "Vampyrodes caraccioli haslength:1" ; Times: 1
+	Query: "Anoura geoffroyi haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;sonora&#34;" ; Times: 2
+	Query: "Hipposideros caffer haslength:1" ; Times: 1
+	Query: "Myotis occultus haslength:1" ; Times: 1
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 2
+	Query: "Peromyscus maniculatus 1980" ; Times: 2
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "Hylonycteris underwoodi haslength:1" ; Times: 1
+	Query: "Rhinolophus hildebrandtii haslength:1" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "genus:Cebus hasmass:1 haslength:1" ; Times: 1
+	Query: "Glossophaga commissarisi haslength:1" ; Times: 1
+	Query: "Myotis albescens haslength:1" ; Times: 1
+	Query: "Pipistrellus kuhlii haslength:1" ; Times: 1
+	Query: "Spermophilus citellus" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "Ametrida centurio haslength:1" ; Times: 1
+	Query: "Corynorhinus mexicanus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019" ; Times: 4
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "Platyrrhinus helleri haslength:1" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "gray fox" ; Times: 8
+	Query: "specificepithet:rufus genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1800 year &lt;= 2019" ; Times: 1
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 1
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Taphozous hildegardeae haslength:1" ; Times: 1
+	Query: "Otomops martiensseni haslength:1" ; Times: 1
+	Query: "Eptesicus serotinus haslength:1" ; Times: 1
+	Query: "Leptonycteris nivalis haslength:1" ; Times: 1
+	Query: "Lophostoma brasiliense haslength:1" ; Times: 1
+	Query: "pine vole" ; Times: 3
+	Query: "Peromyscus maniculatus 2001" ; Times: 2
+	Query: "Peromyscus maniculatus 2000" ; Times: 1
+	Query: "Mops mops haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Peromyscus maniculatus 1997" ; Times: 2
+	Query: "Peromyscus maniculatus 1992" ; Times: 2
+	Query: "Eumops glaucinus haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Scotoecus hirundo haslength:1" ; Times: 1
+	Query: "Lasiurus seminolus haslength:1" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Choeroniscus minor haslength:1" ; Times: 1
+	Query: "Nycteris thebaica haslength:1" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Miniopterus schreibersii haslength:1" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 1
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 2
+	Query: "Micropteropus pusillus haslength:1" ; Times: 1
+	Query: "genus:Idionycteris phyllotis hastissue:1" ; Times: 2
+	Query: "Mimon cozumelae haslength:1" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Macrotus waterhousii haslength:1" ; Times: 1
+	Query: "Glauconycteris argentata haslength:1" ; Times: 1
+	Query: "Pteropus molossinus haslength:1" ; Times: 1
+	Query: "Mimon crenulatum haslength:1" ; Times: 1
+	Query: "Rhinophylla pumilio haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34; Panthera onca" ; Times: 1
+	Query: "Monophyllus plethodon haslength:1" ; Times: 1
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Lonchorhina aurita haslength:1" ; Times: 1
+	Query: "Corynorhinus rafinesquii haslength:1" ; Times: 1
+	Query: "Pteronotus personatus haslength:1" ; Times: 1
+	Query: "white nosed coati" ; Times: 1
+	Query: "Choeroniscus godmani haslength:1" ; Times: 1
+	Query: "Taphozous nudiventris haslength:1" ; Times: 1
+	Query: "Chiroderma villosum haslength:1" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Glossophaga soricina haslength:1" ; Times: 1
+	Query: "genus: Leopardus hasmass:1 haslength:1" ; Times: 1
+	Query: "Phyllostomus elongatus haslength:1" ; Times: 1
+	Query: "Myotis mystacinus haslength:1" ; Times: 1
+	Query: "Lasiurus ega haslength:1" ; Times: 1
+	Query: "Carollia perspicillata haslength:1" ; Times: 1
+	Query: "uaz 13711" ; Times: 1
+	Query: "Promops centralis haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1960 year &lt;= 1969 hassex:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor hasmass:1 haslength:1" ; Times: 1
+	Query: "Uroderma bilobatum haslength:1" ; Times: 1
+	Query: "Centurio senex haslength:1" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Nyctinomops aurispinosus haslength:1" ; Times: 1
+	Query: "Myotis austroriparius haslength:1" ; Times: 1
+	Query: "ermine" ; Times: 1
+	Query: "Peromyscus maniculatus 1988" ; Times: 2
+	Query: "Myotis keenii haslength:1" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "specificepithet:irroratus genus:Liomys institutioncode:UAZ hastissue:1" ; Times: 1
+	Query: "Nyctinomops femorosaccus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1 hastissue:1" ; Times: 4
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Idionycteris" ; Times: 1
+	Query: "genus:Sorex county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Sturnira ludovici haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "Perimyotis subflavus haslength:1" ; Times: 1
+	Query: "Hipposideros commersoni haslength:1" ; Times: 1
+	Query: "Myotis nigricans haslength:1" ; Times: 1
+	Query: "Noctilio leporinus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Rhinolophus landeri haslength:1" ; Times: 1
+	Query: "Tadarida teniotis haslength:1" ; Times: 1
+	Query: "Saguinus fuscicollis mappable:1" ; Times: 2
+	Query: "tenrec" ; Times: 1
+	Query: "Myotis fortidens haslength:1" ; Times: 1
+	Query: "Idionycteris phyllotis haslength:1" ; Times: 1
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Nyctalus noctula haslength:1" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Nyctinomops macrotis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "Molossus sinaloae haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1987" ; Times: 4
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "specificepithet:gracilis genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Trinycteris nicefori haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+	Query: "Mormoops megalophylla haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 135 (out of 1073 download events in this period)
+Total number of records downloaded: 5078
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 109
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 8
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 6
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-23 ; Times: 15
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 19
+	Date: 2019-09-24 ; Times: 7
+	Date: 2019-09-27 ; Times: 9
+	Date: 2019-09-26 ; Times: 37
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates class:Mammalia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 59
+	Query: "eumops perotis" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1 hastissue:1" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Rhogeessa alleni" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "specificepithet:melanotis genus:Peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "specificepithet:crawfordi genus:notiosorex institutioncode:UAZ" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "prairie vole" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:yerbabuenae genus:leptonycteris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 2
+	Query: "genus:Idionycteris phyllotis hastissue:1" ; Times: 2
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1 hastissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "vntype:specimen order:chiroptera country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sonora&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 3
+
+
+End of report.
