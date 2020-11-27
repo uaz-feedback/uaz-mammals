@@ -1,0 +1,315 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 1249
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 136
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 30
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-29 ; Times: 10
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-07 ; Times: 7
+	Date: 2020-01-06 ; Times: 6
+	Date: 2020-01-05 ; Times: 2
+	Date: 2020-01-21 ; Times: 17
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-09 ; Times: 5
+	Date: 2020-01-08 ; Times: 6
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 8
+	Date: 2020-01-28 ; Times: 39
+	Date: 2020-01-18 ; Times: 4
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 13
+	Date: 2020-01-16 ; Times: 9
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 16
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-30 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "genus:idionycteris county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "kerivoula picta" ; Times: 1
+	Query: "specificepithet:aztecus genus:Artibeus" ; Times: 2
+	Query: "castanea Carollia" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America sex:Female hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "specificepithet:xanthinus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Lasionycteris noctivagans vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Lontra longicaudis mappable:1" ; Times: 3
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "Phacochoerus aethiopicus mappable:1" ; Times: 2
+	Query: "romerolagus diazi" ; Times: 10
+	Query: "specificepithet:hesperus genus:pipistrellus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "&#34;sea otter&#34;" ; Times: 1
+	Query: "corynorhinus mexicanus" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "genus:Bubalus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "locality:Thomas county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:male massing &gt;= 500 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:javanica genus:manis country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "Procavia capensis mappable:1" ; Times: 2
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Cryptomys country:&#34;Zambia&#34;" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Euderma Maculatum" ; Times: 1
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "order:rodentia recordedby:norman year &gt;= 1972 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:latimanus genus:scapanus county:&#34;placer&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "county:&#34;Carter&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "genus:Rattus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "order:rodentia recordedby:vaden year &gt;= 1972 year &lt;= 1975" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "kit fox" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Eira barbara mappable:1" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Female massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "locality:Thomas county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 2
+	Query: "Desert Cottontail" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 12
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:velifer genus:myotis hastissue:1" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Ectophylla alba" ; Times: 2
+	Query: "class:Mammalia locality:Hemet county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "specificepithet:Rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 5
+	Query: "Dipodomys simulans vntype:specimen hastissue:1" ; Times: 2
+	Query: "rock vole" ; Times: 1
+	Query: "Nycticeius humeralis vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Myotis austroriparius vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Lasiurus seminolus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Ocelot" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ectophylla" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "cryptomys" ; Times: 1
+	Query: "Cheetah" ; Times: 1
+	Query: "&#34;canis rufus&#34; texas" ; Times: 2
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "cheetah" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Tenrecidae hastissue:1" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Tapirus bairdii&#34;" ; Times: 1
+	Query: "specificepithet:Lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Miniopterinae" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "pale kangaroo mouse" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 2
+	Query: "genus:lynx family:felidae county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "glauconycteris" ; Times: 1
+	Query: "locality:&#34;Santa Rosa&#34; county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Corynorhinus rafinesquii vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 149 (out of 1584 download events in this period)
+Total number of records downloaded: 4391
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 123
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 8
+	Date: 2020-01-07 ; Times: 5
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-05 ; Times: 6
+	Date: 2020-01-21 ; Times: 14
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-23 ; Times: 5
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 9
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 13
+	Date: 2020-01-12 ; Times: 16
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-30 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:xanthinus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lasionycteris noctivagans vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Nycticeius humeralis vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "corynorhinus mexicanus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamias baja" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Didelphidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "genus:Sorex family:Soricidae country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 2001 year &lt;= 2020" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "genus:Rattus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "specificepithet:velifer genus:myotis hastissue:1" ; Times: 1
+	Query: "centurio senex basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "family:Phyllostomidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Mus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Perimyotis subflavus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Myotis austroriparius vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "Lasiurus seminolus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Tenrecidae hastissue:1" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "order:rodentia recordedby:norman year &gt;= 1972 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Corynorhinus rafinesquii vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 3
+	Query: "Dermoptera" ; Times: 6
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+
+
+End of report.
