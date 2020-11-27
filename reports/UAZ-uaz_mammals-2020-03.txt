@@ -1,0 +1,334 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 2769
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 112
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 155
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 15
+	Date: 2020-03-31 ; Times: 7
+	Date: 2020-03-18 ; Times: 99
+	Date: 2020-03-19 ; Times: 13
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-23 ; Times: 10
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 5
+	Date: 2020-03-10 ; Times: 10
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 5
+	Date: 2020-03-25 ; Times: 20
+	Date: 2020-03-24 ; Times: 7
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-20 ; Times: 42
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-29 ; Times: 10
+	Date: 2020-03-02 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 2
+	Query: "papago springs cave" ; Times: 2
+	Query: "Epomophorus wahlbergi" ; Times: 1
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "&#34;Tacarcuna Village Camp&#34;" ; Times: 2
+	Query: "Myotis blythii" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "genus:Neotoma class:Mammalia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis emarginatus" ; Times: 2
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "reithrodontomys montanus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "sigmodon ochrognathus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "&#34;11 km. NW Escuintla&#34;" ; Times: 1
+	Query: "fountain valley" ; Times: 1
+	Query: "Epomophorus labiatus" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "peromyscus merriami county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "&#34;Momotombo&#34;" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "sigmodon hispidus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Trinycteris nicefori" ; Times: 1
+	Query: "Platymops setiger" ; Times: 1
+	Query: "Rhogeessa alleni" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "dipodomys chiricahua county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "Peromyscus difficilis county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "locality:fountain valley year &gt;= 1958 year &lt;= 1965" ; Times: 1
+	Query: "Vampyrodes caraccioli" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "tereticaudus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Scotoecus hirundo" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "Pteropus tonganus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "Lasiurus xanthinus" ; Times: 2
+	Query: "Rhinolophus hildebrandtii" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "specificepithet:cuniculus genus:Oryctolagus haslength:1" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "genus:antilocapra (cochise)" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 2
+	Query: "&#34;12 mi. N Mapastepec&#34;" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 2
+	Query: "Molossus sinaloae" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Myotis bechsteinii" ; Times: 2
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "Rhinolophus mehelyi" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "Ametrida centurio" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "Tylomys nudicaudus" ; Times: 2
+	Query: "eumops county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "Sturnira mordax" ; Times: 1
+	Query: "Lissonycteris angolensis" ; Times: 2
+	Query: "specificepithet:obscurus genus:Tamias distance(location,geopoint(27.53203645450623,-113.0208163510373))&lt;53639" ; Times: 3
+	Query: "Chiroderma trinitatum" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "Pteropus molossinus" ; Times: 1
+	Query: "baiomys county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "country:&#34;United States&#34; (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 2
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "Myotis capaccinii" ; Times: 2
+	Query: "Molossus aztecus" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Vespadelus pumilus" ; Times: 1
+	Query: "specificepithet:obscurus genus:Tamias distance(location,geopoint(27.53203645450623,-113.0208163510373))&lt;100000" ; Times: 1
+	Query: "catalognumber:00781 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Delphinus capensis" ; Times: 1
+	Query: "specificepithet:collaris genus:Hemiechinus haslength:1" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "ASDM" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "Tadarida teniotis" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 2
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Glauconycteris argentata" ; Times: 1
+	Query: "(frog) AND (NOT &#34;Australia&#34; &#34;Mammalia&#34;) haslength:1" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "Mimon crenulatum" ; Times: 2
+	Query: "&#34;20 km. SE Pijijiapan&#34;" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "&#34;12 mi. E Ortiz Rubio&#34;" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "(16380)" ; Times: 1
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 2
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "specificepithet:hastatus hassex:1 hasmass:1" ; Times: 1
+	Query: "Kerivoula picta" ; Times: 2
+	Query: "Lophostoma brasiliense" ; Times: 2
+	Query: "Promops centralis" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "24123" ; Times: 1
+	Query: "Mops condylurus" ; Times: 1
+	Query: "Dave Long" ; Times: 4
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:citellus genus:Spermophilus haslength:1" ; Times: 1
+	Query: "chaetodipus chiricahua county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "Sturnira ludovici" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "Mops mops" ; Times: 2
+	Query: "Micronycteris megalotis" ; Times: 2
+	Query: "ANTILOCAPRA AMERICANA county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Ectophylla alba" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias" ; Times: 2
+	Query: "Rhinolophus hipposideros" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 2
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "Taphozous hildegardeae" ; Times: 1
+	Query: "Barbastella barbastellus" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "specificepithet:marsupialis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 2
+	Query: "Hylomyscus vntype:specimen hassex:1 haslength:1" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 4
+	Query: "Eumops perotis" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "Monophyllus plethodon" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "cynomys county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "tk institutioncode:UAZ" ; Times: 3
+	Query: "&#34;5 km. SE Pueblo Juárez&#34;" ; Times: 2
+	Query: "thomomys umbrinus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus haslength:1" ; Times: 2
+	Query: "peromyscus nasutus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Micropteropus pusillus" ; Times: 2
+	Query: "perognathus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; (portal pinery chiricahua)" ; Times: 1
+	Query: "specificepithet:putorius genus:Mustela haslength:1" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "&#34;42 km. W Cintalapa&#34;" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "&#34;Cariari&#34;" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "Myotis albescens" ; Times: 2
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "genus:Didelphis family:Didelphidae stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "amplus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "Rhinolophus landeri" ; Times: 1
+	Query: "reithrodontomys Fulvescens county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "&#34;1 km. S Pueblo Nuevo&#34;" ; Times: 1
+	Query: "&#34;Cerro Chino&#34;" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "Mystacina tuberculata" ; Times: 2
+	Query: "specificepithet:diazi genus:Romerolagus haslength:1" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "specificepithet:algirus genus:Atelerix haslength:1" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 853 download events in this period)
+Total number of records downloaded: 542
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 26
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-31 ; Times: 10
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:obscurus genus:Tamias distance(location,geopoint(27.53203645450623,-113.0208163510373))&lt;100000" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "specificepithet:hartii genus:Enchisthenes" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Indiana&#34;" ; Times: 3
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
