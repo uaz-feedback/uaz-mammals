@@ -1,0 +1,175 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 1082
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 70
+	Country: United States ; Times: 50
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 51
+	Date: 2020-05-26 ; Times: 7
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 18
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 5
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-16 ; Times: 7
+	Date: 2020-05-17 ; Times: 15
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 16
+	Date: 2020-05-07 ; Times: 7
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "southern yellow bat" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "Microcebus" ; Times: 1
+	Query: "NEOTAMIAS BULLERI" ; Times: 1
+	Query: "753813" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Krutzch" ; Times: 2
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "06197" ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 5
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "19585 peromyscus" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "antelope jackrabbit]" ; Times: 1
+	Query: "genus:euderma hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "18482" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 2
+	Query: "Grampus griseus" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 12
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; (bat) year &gt;= 1935 year &lt;= 1943" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 2
+	Query: "20009" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "chaetodipus intermedius fires" ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;durango&#34;" ; Times: 3
+	Query: "class:Mammalia country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:UAZ" ; Times: 1
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT MSB) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:perotis genus:eumops haslength:1" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "&#34;ochotona princeps&#34; vntype:specimen stateprovince:&#34;Washington&#34; lengthtype:total length haslength:1" ; Times: 1
+	Query: "TAMIAS BULLERI" ; Times: 2
+	Query: "genus:Ondatra stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sonora&#34;" ; Times: 4
+	Query: "maxomys rajah" ; Times: 1
+	Query: "hooded skunk new mexico" ; Times: 1
+	Query: "P. Krutzch" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;nayarit&#34;" ; Times: 8
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "diclidurus albus" ; Times: 66
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1106 download events in this period)
+Total number of records downloaded: 2143
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 24
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "maxomys rajah" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
