@@ -1,0 +1,235 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 930
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 8
+	Country: Ireland ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 17
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 39
+	Country: Malaysia ; Times: 31
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 13
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 21
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-26 ; Times: 3
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-22 ; Times: 23
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-05 ; Times: 3
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-18 ; Times: 5
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 6
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-15 ; Times: 8
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "08798" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UAZ" ; Times: 3
+	Query: "genus:Microtus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "locality:grande stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "Lasiurus blossevillii Mexico" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34; (cave)" ; Times: 3
+	Query: "country:&#34;ethiopia&#34; recordedby:cheesman" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "16350" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "promops centralis" ; Times: 3
+	Query: "long tailed weasel" ; Times: 1
+	Query: "silver haired bat" ; Times: 3
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34; (cueva)" ; Times: 5
+	Query: "23630" ; Times: 1
+	Query: "Tupaia glis" ; Times: 5
+	Query: "locality:Desemboque institutioncode:UAZ" ; Times: 5
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "UAZ 07450" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Chiroptera nevado de colima" ; Times: 2
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "Sundasciurus tenuis" ; Times: 10
+	Query: "recordedby:White institutioncode:UAZ" ; Times: 2
+	Query: "stateprovince:&#34;Sonora&#34; recordedby:White institutioncode:UAZ" ; Times: 1
+	Query: "stateprovince:&#34;Sonora&#34; recordedby:Lowe institutioncode:UAZ" ; Times: 2
+	Query: "stateprovince:&#34;Sonora&#34; recordedby:Bezy institutioncode:UAZ" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "spotted skunk" ; Times: 2
+	Query: "Berylmys bowersi" ; Times: 12
+	Query: "28078" ; Times: 2
+	Query: "stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34; (cueva )" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bandicota indica malaysia" ; Times: 1
+	Query: "specificepithet:irroratus institutioncode:UAZ" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "stateprovince:&#34;Jalisco&#34; country:&#34;México&#34; (cave)" ; Times: 1
+	Query: "specificepithet:micropus genus:neotoma institutioncode:UAZ" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "berylmys bowersi" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "ectophylla alba" ; Times: 2
+	Query: "Dipodomys elator" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Callosciurus nigrovittatus" ; Times: 2
+	Query: "genus:Peromyscus locality:Willow creek stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "recordedby:McCord institutioncode:UAZ" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "19825" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Setifer hastissue:1" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "genus:Napaeozapus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "specificepithet:fumeus genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "bat genus:Lasionycteris year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "class:mammalia continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "Microcebus" ; Times: 1
+	Query: "genus:Oligoryzomys" ; Times: 2
+	Query: "stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34; (mina)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 940 download events in this period)
+Total number of records downloaded: 12153
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 24
+	Country: Malaysia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 10
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UAZ" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Leopoldamys" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "ectophylla alba" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Sundamys" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "potos flavus" ; Times: 2
+	Query: "Berylmys bowersi" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
