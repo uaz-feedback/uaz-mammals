@@ -1,0 +1,256 @@
+Report for Institution Code UAZ, Resource uaz_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 211
+Number of records retrieved in searches: 1667
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 126
+	Country: Saudi Arabia ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 25
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 12
+	Country: Peru ; Times: 2
+	Country: Kenya ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Mozambique ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-31 ; Times: 3
+	Date: 2020-12-09 ; Times: 24
+	Date: 2020-12-08 ; Times: 8
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-04 ; Times: 66
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 24
+	Date: 2020-12-01 ; Times: 9
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 7
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 7
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-14 ; Times: 11
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 8
+	Date: 2020-12-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "Mammal-25855" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "Crocidura russula" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1800 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "hog-nosed skunk in Arizona" ; Times: 1
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "02947" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Petaurista" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 10000 hassex:1 hasmass:1" ; Times: 4
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "genus:Gerbillus class:Mammalia country:&#34;Saudi Arabia&#34; continent:asia" ; Times: 1
+	Query: "scientificname:Myodes gapperi stateprovince:new york" ; Times: 2
+	Query: "Phacochoerus" ; Times: 2
+	Query: "Carnegie Museum Mammals" ; Times: 1
+	Query: "25113" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UAZ" ; Times: 1
+	Query: "genus:tragulus" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 10
+	Query: "vampire" ; Times: 2
+	Query: "genus:myodes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "23496" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1900 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "white tailed-deer hassex:1 hasmass:1" ; Times: 2
+	Query: "24209" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "genus:Mus class:Mammalia stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "Puma jaguarundi" ; Times: 1
+	Query: "(white tailed deer) hassex:1 hasmass:1" ; Times: 5
+	Query: "diclidurus albus" ; Times: 2
+	Query: "fringed myotis" ; Times: 1
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 4
+	Query: "11296" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Nicaragua&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:neotoma locality:Ruby (skull)" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UAZ" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 2000 hassex:1 hasmass:1" ; Times: 2
+	Query: "genus:Gerbillus country:&#34;Saudi Arabia&#34;" ; Times: 2
+	Query: "white tailed deer hassex:1 hasmass:1" ; Times: 3
+	Query: "genus:Jaculus hasmass:1" ; Times: 6
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 30000 hassex:1 hasmass:1" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "genus:myodes county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "25529" ; Times: 1
+	Query: "Cervinae" ; Times: 1
+	Query: "Uranomys" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Corynorhinus stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "Mongoose" ; Times: 1
+	Query: "Apodemus uralensis" ; Times: 1
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus NOT (virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 2
+	Query: "scientificname:Funisciurus congicus" ; Times: 4
+	Query: "17519" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 7
+	Query: "indian squirrel" ; Times: 2
+	Query: "Nasua nasua in Arizona" ; Times: 1
+	Query: "mappable:1 scientificname:Dasymys incomtus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus AND (NOT virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 hasmass:1" ; Times: 1
+	Query: "Hog-nosed skunk Arizona" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus AND massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "class:Mammalia country:&#34;Saudi Arabia&#34; continent:asia" ; Times: 2
+	Query: "hog-nosed skunk" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1" ; Times: 5
+	Query: "hedgehog" ; Times: 1
+	Query: "white tail deer hassex:1 hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 705 download events in this period)
+Total number of records downloaded: 5373
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 8
+	Country: Saudi Arabia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex saussurei" ; Times: 2
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UAZ" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UAZ" ; Times: 1
+	Query: "genus:Gerbillus country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1 -didelphis" ; Times: 1
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "class:Mammalia locality:Mojave Desert" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 2
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
